@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "203825944545",
+    "project_id": "iattendy",
+    "storage_bucket": "iattendy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203825944545:android:3b6c1bd2b9eb6792d8a4a0",
+        "android_client_info": {
+          "package_name": "com.iAttendy.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAacIXX7vKizXCFrwljc4GZ6W3BOwfl7Mg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

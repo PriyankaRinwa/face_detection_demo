@@ -1,0 +1,4 @@
+class ServiceKey{
+  static const String superBaseUrl = "https://chpjpmnqgyqdzfucrmgh.supabase.co";
+  static const String superBaseAnonKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNocGpwbW5xZ3lxZHpmdWNybWdoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzE1MTkyMTksImV4cCI6MjA0NzA5NTIxOX0.1AZLb1p7Kq1ibciY7cARzBShz7e3uScT52Jxt2Awikw";
+}
